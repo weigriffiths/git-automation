@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # test
 # function print_my_input() {
@@ -20,6 +20,9 @@ function create() {
   cd Documents/Wei/dev/automation/github-automation
   # open python file and input project name as argument
   python create.py $1
+  source .env
+  cd NEW_DIR
+  
   }
 
 
