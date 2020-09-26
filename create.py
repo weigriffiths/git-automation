@@ -88,7 +88,8 @@ def git_create():
 
     init_git()
     # export variables to script
-    return file_path
+    new_path = f'{file_path}/{project_name}'
+    return new_path
 
 if __name__ == "__main__":
     NEW_DIR=git_create()
