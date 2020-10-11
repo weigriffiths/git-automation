@@ -12,7 +12,6 @@
 # CHECKLIST
 # Create function that runs python program
 # Ensure python program is executable 
-
 # Variables in env
 
 function create() {
