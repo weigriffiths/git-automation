@@ -21,6 +21,7 @@ Git automate is a convenient time-saving tool which automatically creates both a
 Standard installation through git clone.
 
 ## Usage
-After installation. Ensure you create add the path to the git-automate.sh in your environment variables. Run the program via "create {repo_name}" command
+After installation ensure you create and add the path to the shell script file in your bash profile or zshrc. 
+Run the program via "create {repo_name}" command
 
 
