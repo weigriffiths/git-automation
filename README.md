@@ -18,6 +18,7 @@ Git automate is a convenient time-saving tool which automatically creates both a
 13. Add source function to .zshrc or .bash_profile
 
 ## Installation
+<<<<<<< HEAD
 You can either clone it via github or fork it.
 
 ## Usage
