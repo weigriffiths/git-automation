@@ -24,6 +24,8 @@ You can either clone it via github or fork it.
 Program is executed using the command <code>create repo_name</code>
 
 ## Notes
-Remember to make the shell script executable by running <code>chmod +x git-automate.sh</code>
+Remember to make the shell script executable by running <code>chmod +x git-automate.sh</code>.
+
 In the .bash_profile or .zshrc file in root directory add the following line to the file:
+
 <code>source ~/path/to/git-automate.sh</code>
