@@ -12,7 +12,8 @@ import os
 import requests
 import subprocess
 from dotenv import load_dotenv
-# call load_dotenv function
+
+# Import the environment file 
 load_dotenv()
 
 # VARIABLES
