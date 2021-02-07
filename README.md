@@ -18,7 +18,11 @@ Git automate is a convenient time-saving tool which automatically creates both a
 13. Add source function to .zshrc or .bash_profile
 
 ## Installation
-You can either clone it via github or fork it.
+1. You can either clone it via github or fork it.
+2. Open <code>git-automate.sh</code> file
+3. Edit line 1 to allow access to either zsh/bash/exe file
+4. Change the file path 
+5. Save and run
 
 ## Usage
 Program is executed using the command <code>create repo_name</code>
