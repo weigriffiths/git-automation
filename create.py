@@ -1,11 +1,3 @@
-################################# NOTES ########################################
-# sys.argv: captures arguments in list [create.py, ....] 
-
-################################################################################
-
-# TEST PYTHON 
-# print("Hello from python")
-
 # Import Modules
 import sys
 import os
